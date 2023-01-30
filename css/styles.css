@@ -130,3 +130,36 @@ h1{
 .carousel-item{
     padding: 5% 7%;
 }
+
+
+/*price*/
+
+.btn-size{
+    width: 100%;
+}
+
+#pricing{
+    padding: 5% 7%;
+    text-align: center;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+}
+
+#pricing h2{
+    font-family: "Montserrat", sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#pricing h3{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#pricing p{
+    font-size: 1.1rem;
+    color: #8f8f8f;
+    font-family: "Montserrat-Light", sans-serif;
+}
