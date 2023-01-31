@@ -16,14 +16,16 @@ h1{
 }
 
 .container-fluid{
-    padding: 3% 15%;
+    padding: 3% 15% 10%;
 }
 
 
 /*image*/
 .mobile{
+    width: 30%;
+    position: absolute;
+    right: 22%;
    
-    width: 60%;
     transform: rotate(20deg);
     -ms-transform:rotate(20deg); /* IE 9 */
     -webkit-transform:rotate(20deg); /* Opera, Chrome, and Safari */
@@ -65,7 +67,9 @@ h1{
     background-color: #fff;
     font-family: "Montserrat", sans-serif;
     padding: 5% 0;
+    position: relative;
     
+   
 }
 
 #features h3{
